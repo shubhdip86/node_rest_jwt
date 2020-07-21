@@ -1,0 +1,25 @@
+{
+  "name": "node_rest_jwt",
+  "version": "1.0.0",
+  "description": "Node REST API with JWT token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhdip86/node_rest_jwt.git"
+  },
+  "author": "Subhdip",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhdip86/node_rest_jwt/issues"
+  },
+  "homepage": "https://github.com/shubhdip86/node_rest_jwt#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
